@@ -33,13 +33,13 @@ export function Footer() {
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
                 
                 <InstagramIcon size={20} />
-              </a>
+              </a>https://www.instagram.com/marvionmarketing/
               <a
                 href="#"
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
                 
                 <FacebookIcon size={20} />
-              </a>
+              </a>https://www.facebook.com/profile.php?id=61590122430972
               <a
                 href="#"
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
