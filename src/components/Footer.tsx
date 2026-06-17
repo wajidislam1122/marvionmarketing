@@ -29,19 +29,19 @@ export function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.instagram.com/marvionmarketing/"
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
                 
                 <InstagramIcon size={20} />
               </a>
               <a
-                href="https://www.instagram.com/marvionmarketing/"
+                href="https://www.facebook.com/profile.php?id=61590122430972"
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
                 
                 <FacebookIcon size={20} />
               </a>
               <a
-                href="https://www.facebook.com/profile.php?id=61590122430972"
+                href=""
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
                 
                 <TwitterIcon size={20} />
