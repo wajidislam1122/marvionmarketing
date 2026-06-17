@@ -78,7 +78,7 @@ export function Footer() {
                   className="flex items-center gap-3 text-gray-400 hover:text-cyan-400 transition-colors">
                   
                   <MailIcon size={18} />
-                  <span>hello@marvion.com</span>
+                  <span>mudassar@marvionmarketing.comm</span>
                 </a>
               </li>
               <li>
@@ -96,7 +96,7 @@ export function Footer() {
                   className="flex items-center gap-3 text-gray-400 hover:text-cyan-400 transition-colors">
                   
                   <GlobeIcon size={18} />
-                  <span>www.marvion.com</span>
+                  <span>www.marvionmarketing.com</span>
                 </a>
               </li>
             </ul>
