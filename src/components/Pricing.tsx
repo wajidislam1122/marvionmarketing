@@ -5,7 +5,7 @@ export function Pricing() {
   const plans = [
   {
     name: 'Starter Package',
-    price: '$300',
+    price: '25000 PKR',
     description: 'Perfect for small businesses starting out.',
     features: [
     '12 Posts',
@@ -19,7 +19,7 @@ export function Pricing() {
   },
   {
     name: 'Growth Package',
-    price: '$600',
+    price: '45000 PKR',
     description: 'Ideal for brands ready to scale and generate leads.',
     features: [
     '20 Posts',
@@ -33,7 +33,7 @@ export function Pricing() {
   },
   {
     name: 'Premium Package',
-    price: '$1200',
+    price: '75000 PKR',
     description: 'Full-service marketing for established enterprises.',
     features: [
     'Full Management',
