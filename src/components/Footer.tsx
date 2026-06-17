@@ -33,15 +33,15 @@ export function Footer() {
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
                 
                 <InstagramIcon size={20} />
-              </a>https://www.instagram.com/marvionmarketing/
+              </a>
               <a
-                href="#"
+                href="https://www.instagram.com/marvionmarketing/"
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
                 
                 <FacebookIcon size={20} />
-              </a>https://www.facebook.com/profile.php?id=61590122430972
+              </a>
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=61590122430972"
                 className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:text-cyan-400 transition-colors">
                 
                 <TwitterIcon size={20} />
