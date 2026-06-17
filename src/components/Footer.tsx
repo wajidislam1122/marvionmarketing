@@ -77,8 +77,8 @@ export function Footer() {
                   href="mailto:hello@marvion.com"
                   className="flex items-center gap-3 text-gray-400 hover:text-cyan-400 transition-colors">
                   
-                  <MailIcon size={18} />
-                  <span>mudassar@marvionmarketing.comm</span>
+                  <MailIcon size={16} />
+                  <span>mudassar@marvionmarketing.com</span>
                 </a>
               </li>
               <li>
